@@ -48,8 +48,6 @@ Você deverá completar a implementação das seguintes entidades:
 - `ItemPedido`
 - `Pagamento`
 
-As classes já estão presentes no projeto-base. Portanto, **não é necessário criar novas classes**.
-
 Você deverá completar o código existente, seguindo o padrão apresentado nas entidades `Categoria` e `Produto`.
 
 > ⚠️ **Não altere ou remova a implementação das entidades `Categoria` e `Produto` utilizadas como exemplo.**
